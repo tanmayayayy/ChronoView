@@ -1,0 +1,9 @@
+torch
+transformers
+openai-whisper
+ffmpeg-python
+opencv-python
+pytesseract
+faiss-cpu
+fastapi
+uvicorn
